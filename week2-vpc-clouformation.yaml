@@ -1,4 +1,4 @@
-AWSTemplateFormationVersion: 2010-09-09
+AWSTemplateFormatVersion: 2010-09-09
 Description: VPC with public and private subnets with two EC2 instances
 
 Resources:
