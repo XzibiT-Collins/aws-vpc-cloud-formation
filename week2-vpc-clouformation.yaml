@@ -133,7 +133,7 @@ Resources:
 
   # EC2 Instances
   WebServerInstance:
-    Type: ASW::EC2::Instance
+    Type: AWS::EC2::Instance
     Properties:
       InstanceType: t3.micro
       ImageId: ami-015cbce10f839bd0c
